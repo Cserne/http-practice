@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cserne/http-practice/issues"
   },
-  "homepage": "https://github.com/Cserne/http-practice#readme"
+  "homepage": "https://github.com/Cserne/http-practice#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
 }
